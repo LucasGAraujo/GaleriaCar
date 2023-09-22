@@ -1,0 +1,12 @@
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\bin\Debug\net6.0\LibraryClasses.deps.json
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\bin\Debug\net6.0\LibraryClasses.dll
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\bin\Debug\net6.0\LibraryClasses.pdb
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\LibraryClasses.csproj.AssemblyReference.cache
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\LibraryClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\LibraryClasses.AssemblyInfoInputs.cache
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\LibraryClasses.AssemblyInfo.cs
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\LibraryClasses.csproj.CoreCompileInputs.cache
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\LibraryClasses.dll
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\refint\LibraryClasses.dll
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\LibraryClasses.pdb
+C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\ref\LibraryClasses.dll
