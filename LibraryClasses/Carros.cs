@@ -22,12 +22,11 @@ namespace CarrosGaleria
         public void Exibir()
         {
             Console.WriteLine("Detalhes do carro:");
-            Console.WriteLine("CarroId: " + CarroId);
             Console.WriteLine("Modelo: " + ModeloCarro);
             Console.WriteLine("É lançamento: " + (Lancamento ? "Sim" : "Não"));
             Console.WriteLine("Número de portas: " + Portas);
             Console.WriteLine("Ano de fabricação: " + AnoDeFabricacao);
-            Console.WriteLine(  );
+            Console.WriteLine();
             Console.WriteLine("-----------------------------");
             Console.WriteLine();
 

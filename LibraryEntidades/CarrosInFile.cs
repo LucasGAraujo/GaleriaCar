@@ -81,14 +81,22 @@ namespace LibraryEntidades
             throw new NotImplementedException();
         }
         public void ExcluirCarro(string modelocarro)
+
         {
+
             var carro = _carros.Find(x => x.ModeloCarro == modelocarro);
             _carros.Remove(carro);
+            SaveData("ArquivoComCarros.json", _carros);
         }
 
         public List<Carros> PesquisarCarro(string modelocarro)
         {
             return _carros.Where(x => x.ModeloCarro == modelocarro).ToList();
+        }
+        static void SaveData(string filePath, List<Carros> carro)
+        {
+            string json = JsonConvert.SerializeObject(carro);
+            File.WriteAllText(filePath, json);
         }
 
         public void CadastrarCarro(Carros obj)

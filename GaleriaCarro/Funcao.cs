@@ -206,6 +206,7 @@ namespace GaleriaCarro
                 if (opcao == "1")
                 {
                     manager.ExcluirCarro(item.ModeloCarro);
+
                    
                 }
                 else if (opcao == "2")
