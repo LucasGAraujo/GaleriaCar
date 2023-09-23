@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukin\\Source\\Repos\\GaleriaCarro\\LibraryClasses\\LibraryClasses.csproj",
+      "projectUniqueName": "C:\\Users\\lukin\\Source\\Repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj",
       "projectName": "LibraryClasses",
-      "projectPath": "C:\\Users\\lukin\\Source\\Repos\\GaleriaCarro\\LibraryClasses\\LibraryClasses.csproj",
+      "projectPath": "C:\\Users\\lukin\\Source\\Repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj",
       "packagesPath": "C:\\Users\\lukin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukin\\Source\\Repos\\GaleriaCarro\\LibraryClasses\\obj\\",
+      "outputPath": "C:\\Users\\lukin\\Source\\Repos\\GaleriaCar\\LibraryClasses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lukin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\GaleriaCarro\\GaleriaCarro.csproj": {}
+    "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\GaleriaCarro\\GaleriaCarro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\GaleriaCarro\\GaleriaCarro.csproj": {
+    "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\GaleriaCarro\\GaleriaCarro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\GaleriaCarro\\GaleriaCarro.csproj",
+        "projectUniqueName": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\GaleriaCarro\\GaleriaCarro.csproj",
         "projectName": "GaleriaCarro",
-        "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\GaleriaCarro\\GaleriaCarro.csproj",
+        "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\GaleriaCarro\\GaleriaCarro.csproj",
         "packagesPath": "C:\\Users\\lukin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\GaleriaCarro\\obj\\",
+        "outputPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\GaleriaCarro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryClasses\\LibraryClasses.csproj": {
-                "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryClasses\\LibraryClasses.csproj"
+              "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj": {
+                "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj"
               },
-              "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryEntidades\\LibraryEntidades.csproj": {
-                "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryEntidades\\LibraryEntidades.csproj"
+              "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryEntidades\\LibraryEntidades.csproj": {
+                "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryEntidades\\LibraryEntidades.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryClasses\\LibraryClasses.csproj": {
+    "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryClasses\\LibraryClasses.csproj",
+        "projectUniqueName": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj",
         "projectName": "LibraryClasses",
-        "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryClasses\\LibraryClasses.csproj",
+        "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj",
         "packagesPath": "C:\\Users\\lukin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryClasses\\obj\\",
+        "outputPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,14 +121,14 @@
         }
       }
     },
-    "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryEntidades\\LibraryEntidades.csproj": {
+    "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryEntidades\\LibraryEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryEntidades\\LibraryEntidades.csproj",
+        "projectUniqueName": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryEntidades\\LibraryEntidades.csproj",
         "projectName": "LibraryEntidades",
-        "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryEntidades\\LibraryEntidades.csproj",
+        "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryEntidades\\LibraryEntidades.csproj",
         "packagesPath": "C:\\Users\\lukin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryEntidades\\obj\\",
+        "outputPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,8 +145,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryClasses\\LibraryClasses.csproj": {
-                "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCarro\\LibraryClasses\\LibraryClasses.csproj"
+              "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj": {
+                "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj"
               }
             }
           }
