@@ -63,7 +63,11 @@ namespace LibraryEntidades
                 this._carros = new List<Carros>();
             }
         }
-
+        static void SaveData(string filePath, List<Carros> carro)
+        {
+            string json = JsonConvert.SerializeObject(carro);
+            File.WriteAllText(filePath, json);
+        }
         public void CadastrarEmJson(Carros obj)
         {
             _carros.Add(obj);
@@ -93,11 +97,7 @@ namespace LibraryEntidades
         {
             return _carros.Where(x => x.ModeloCarro == modelocarro).ToList();
         }
-        static void SaveData(string filePath, List<Carros> carro)
-        {
-            string json = JsonConvert.SerializeObject(carro);
-            File.WriteAllText(filePath, json);
-        }
+       
 
         public void CadastrarCarro(Carros obj)
         {
