@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukin\\Source\\Repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj": {}
+    "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukin\\Source\\Repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj": {
+    "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukin\\Source\\Repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj",
+        "projectUniqueName": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj",
         "projectName": "LibraryClasses",
-        "projectPath": "C:\\Users\\lukin\\Source\\Repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj",
+        "projectPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\LibraryClasses.csproj",
         "packagesPath": "C:\\Users\\lukin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukin\\Source\\Repos\\GaleriaCar\\LibraryClasses\\obj\\",
+        "outputPath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\LibraryClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukin\\AppData\\Roaming\\NuGet\\NuGet.Config",

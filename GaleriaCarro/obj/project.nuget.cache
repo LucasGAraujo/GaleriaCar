@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w5CGHwuQggEc4FzkMcgaA1IN6WgF0RnV77a1iNeaNRxgH3nrYB9Z6I2HUz6vThxSjY8RlOZr7f+ofB3K2ZdBDA==",
+  "dgSpecHash": "zZZ4UNO3PwxkrxcBpu5TuU7TQQEPUMLeTHc7g9yfjIyVxZvqkd5kFYRaNBI0tFpjHrl4ePy4vqnSVmss6H2PXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukin\\Source\\Repos\\GaleriaCar\\GaleriaCarro\\GaleriaCarro.csproj",
+  "projectFilePath": "C:\\Users\\lukin\\source\\repos\\GaleriaCar\\GaleriaCarro\\GaleriaCarro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
