@@ -15,12 +15,10 @@ namespace LibraryEntidades
     public class CarrosInFile : IGerenciar
     {
         private List<Carros> _carros = new List<Carros>();
-
         public CarrosInFile()
         {
             LerArquivo();
         }
-
         private void LerArquivo()
         {
             using (var file = File.Open("ArquivoComCarros.json", FileMode.OpenOrCreate, FileAccess.Read))
@@ -39,7 +37,6 @@ namespace LibraryEntidades
                 this._carros = new List<Carros>();
             }
         }
-
         public void EscreverArquivo()
         {
             if (this._carros == null)
@@ -72,13 +69,10 @@ namespace LibraryEntidades
         public void CadastrarEmJson(Carros obj)
         {
             _carros.Add(obj);
-            EscreverArquivo();
-            
+            EscreverArquivo();   
         }
-
         public List<Carros> MostrarTodos()
         {
-            
             return _carros;
         }
         public void Atualizar(Carros carro)
@@ -86,20 +80,15 @@ namespace LibraryEntidades
             throw new NotImplementedException();
         }
         public void ExcluirCarro(string modelocarro)
-
         {
-
             var carro = _carros.Find(x => x.ModeloCarro == modelocarro);
             _carros.Remove(carro);
             SaveData("ArquivoComCarros.json", _carros);
         }
-
         public List<Carros> PesquisarCarro(string modelocarro)
         {
             return _carros.Where(x => x.ModeloCarro == modelocarro).ToList();
         }
-       
-
         public void CadastrarCarro(Carros obj)
         {
            _carros.Add(obj);

@@ -10,3 +10,14 @@ C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\Library
 C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\refint\LibraryClasses.dll
 C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\LibraryClasses.pdb
 C:\Users\lukin\Source\Repos\GaleriaCarro\LibraryClasses\obj\Debug\net6.0\ref\LibraryClasses.dll
+C:\Users\NIT0298147\source\repos\GaleriaCar\LibraryClasses\bin\Debug\net6.0\LibraryClasses.deps.json
+C:\Users\NIT0298147\Source\Repos\GaleriaCar\LibraryClasses\bin\Debug\net6.0\LibraryClasses.dll
+C:\Users\NIT0298147\source\repos\GaleriaCar\LibraryClasses\bin\Debug\net6.0\ref\LibraryClasses.dll
+C:\Users\NIT0298147\Source\Repos\GaleriaCar\LibraryClasses\bin\Debug\net6.0\LibraryClasses.pdb
+C:\Users\NIT0298147\Source\Repos\GaleriaCar\LibraryClasses\obj\Debug\net6.0\LibraryClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIT0298147\Source\Repos\GaleriaCar\LibraryClasses\obj\Debug\net6.0\LibraryClasses.AssemblyInfoInputs.cache
+C:\Users\NIT0298147\Source\Repos\GaleriaCar\LibraryClasses\obj\Debug\net6.0\LibraryClasses.AssemblyInfo.cs
+C:\Users\NIT0298147\Source\Repos\GaleriaCar\LibraryClasses\obj\Debug\net6.0\LibraryClasses.csproj.CoreCompileInputs.cache
+C:\Users\NIT0298147\Source\Repos\GaleriaCar\LibraryClasses\obj\Debug\net6.0\LibraryClasses.dll
+C:\Users\NIT0298147\Source\Repos\GaleriaCar\LibraryClasses\obj\Debug\net6.0\ref\LibraryClasses.dll
+C:\Users\NIT0298147\Source\Repos\GaleriaCar\LibraryClasses\obj\Debug\net6.0\LibraryClasses.pdb

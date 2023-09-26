@@ -23,9 +23,9 @@ namespace CarrosGaleria
         {
             Console.WriteLine("Detalhes do carro:");
             Console.WriteLine("Modelo: " + ModeloCarro);
-            Console.WriteLine("É lançamento: " + (Lancamento ? "Sim" : "Não"));
+            Console.WriteLine("É Automatico ou manual ? : " + (Lancamento ? "Automatico" : "Manual"));
             Console.WriteLine("Número de portas: " + Portas);
-            Console.WriteLine("Ano de fabricação: " + AnoDeFabricacao);
+            Console.WriteLine("Ano de fabricação: " + AnoDeFabricacao.Year);
             Console.WriteLine();
             Console.WriteLine("-----------------------------");
             Console.WriteLine();
