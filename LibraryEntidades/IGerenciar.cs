@@ -15,6 +15,7 @@ namespace LibraryEntidades
         void CadastrarCarro(Carros obj);
         void CadastrarEmJson(Carros obj);
         void ExcluirCarro(string Nome);
+        void ExcluirCarroList (string Nome);
         List<Carros> PesquisarCarro(string Nome);
         void Atualizar(Carros carro);
         

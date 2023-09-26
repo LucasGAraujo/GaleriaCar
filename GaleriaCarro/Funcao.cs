@@ -7,6 +7,7 @@ namespace GaleriaCarro
     public class Funcao
     {
         static bool armazenar = true;
+        static bool list = true;
         private static IGerenciar manager = new CarrosInFile();
         public static void Menu()
         { 
@@ -22,10 +23,12 @@ namespace GaleriaCarro
                 switch (opcaoarmazenar)
                 {
                     case 1:
+                        list = true;
                         armazenar = true;
                         iniciararmazenamento = false;
                         break;
                     case 2:
+                        list = false;
                         armazenar = false;
                         iniciararmazenamento = false; break;
                     default:
@@ -138,7 +141,14 @@ namespace GaleriaCarro
                     string opcao = Console.ReadLine();
                     if (opcao == "1")
                     {
-                        manager.ExcluirCarro(item.ModeloCarro);
+                        if (list)
+                        {
+                            manager.ExcluirCarro(item.ModeloCarro);
+                        }else if (list == false)
+                        {
+                            manager.ExcluirCarroList(item.ModeloCarro);
+                        }
+                        
                         IncluirCarro();
                         a = false;
                     }
@@ -171,8 +181,15 @@ namespace GaleriaCarro
                     Console.WriteLine("Deseja excluir este carro? \n[1]Sim\n[2]Não\n");
                     string opcao = Console.ReadLine();
                     if (opcao == "1")
-                    { b=    false; 
-                        manager.ExcluirCarro(item.ModeloCarro);
+                    { b=    false;
+                        if (list)
+                        {
+                            manager.ExcluirCarro(item.ModeloCarro);
+                        }
+                        else if (list == false)
+                        {
+                            manager.ExcluirCarroList(item.ModeloCarro);
+                        }
                     }
                     else if (opcao == "2")
                     {

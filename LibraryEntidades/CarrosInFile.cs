@@ -94,6 +94,10 @@ namespace LibraryEntidades
            _carros.Add(obj);
         }
 
-       
+        public void ExcluirCarroList(string modelocarro)
+        {
+            var carro = _carros.Find(x => x.ModeloCarro == modelocarro);
+            _carros.Remove(carro);
+        }
     }
 }
